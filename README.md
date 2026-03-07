@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manish%20Kapoor&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Hono&descAlignY=60&descColor=a0aec0)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Manish%20Kapoor&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20Spring%20Boot%20Developer%20%7C%20MERN%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Hono&descAlignY=60&descColor=a0aec0)
 
 <div align="center">
 
@@ -14,11 +14,11 @@
 
 ```typescript
 const manish = {
-  role:       "Full Stack Developer",
+  role:       "Java Spring Boot Developer & Full Stack Engineer",
   location:   "Delhi, India 📍",
   experience: "1+ year professional | 900+ hrs structured training",
-  background: "Former GfK–NIQ (Global Data Company) → Software Engineer",
-  strengths:  ["Production APIs", "Real-time Platforms", "JWT/RBAC Auth"],
+  background: "Former GfK–NIQ (Global Data Company) → Backend/Full-Stack Engineer",
+  strengths:  ["Spring Boot REST APIs", "JWT/OAuth 2.0 + RBAC", "JUnit 5 + Mockito", "Docker", "Real-time Platforms"],
   available:  true, // Immediate Joiner ✅
 };
 ```
@@ -26,6 +26,12 @@ const manish = {
 ---
 
 ## 🛠️ Tech Stack
+
+**Java / Spring Boot**
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,maven,docker)](https://github.com/ManishKapoor5)
+
+> Spring Boot 3 · Spring Security 6 (JWT/OAuth 2.0) · Spring Data JPA · Hibernate · JUnit 5 · Mockito · SpringDoc OpenAPI · Actuator · Lombok
 
 **Backend & Runtime**
 
@@ -37,7 +43,7 @@ const manish = {
 
 **Database & Tools**
 
-[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman)](https://github.com/ManishKapoor5)
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,postman)](https://github.com/ManishKapoor5)
 
 ---
 
@@ -45,6 +51,22 @@ const manish = {
 
 <table>
   <tr>
+    <td width="50%">
+      <h3>🗂️ Task Management REST API</h3>
+      <p>Production-grade Spring Boot API with full security & testing</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Security_6-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Stateless JWT + refresh-token rotation</li>
+        <li>Role-based endpoint guards (RBAC)</li>
+        <li>JUnit 5 + Mockito test suite (~80% coverage)</li>
+        <li>SpringDoc OpenAPI 3.0 · Actuator · Docker</li>
+      </ul>
+    </td>
     <td width="50%">
       <h3>🎯 Interview Arena</h3>
       <p>Full-stack video interview platform with live coding</p>
@@ -58,9 +80,11 @@ const manish = {
         <li>1-on-1 HD video with Stream SDK</li>
         <li>Real-time VSCode-like code editor</li>
         <li>Inngest background job processing</li>
-        <li>OAuth + email auth via Clerk</li>
+        <li>OAuth + email auth via Clerk · Sevalla deploy</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>📈 Trading Backend</h3>
       <p>Broker simulation REST API with RBAC security</p>
@@ -68,16 +92,15 @@ const manish = {
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
       </p>
       <ul>
-        <li>5+ RESTful API modules</li>
-        <li><strong>40% faster</strong> MongoDB queries via indexing</li>
-        <li>3-tier RBAC with data isolation</li>
-        <li>Order, portfolio & position tracking</li>
+        <li>5+ RESTful API modules (order, portfolio, positions)</li>
+        <li><strong>40% faster</strong> MongoDB queries via compound indexing</li>
+        <li>3-tier RBAC with full data isolation</li>
+        <li>Complete Swagger/OpenAPI documentation</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>💰 Expense Tracking API</h3>
       <p>CRUD API with full OpenAPI/Swagger documentation</p>
@@ -87,23 +110,9 @@ const manish = {
         <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white"/>
       </p>
       <ul>
-        <li>Filtering, pagination & sorting</li>
-        <li>Normalized PostgreSQL schemas</li>
+        <li>Filtering, cursor-based pagination & sorting</li>
+        <li>Normalized PostgreSQL schemas + Alembic migrations</li>
         <li>Full Swagger UI documentation</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🔥 Hono REST API <em>(Coming Soon)</em></h3>
-      <p>Edge-ready API deployed on Cloudflare Workers</p>
-      <p>
-        <img src="https://img.shields.io/badge/Hono-E36002?style=flat"/>
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-      </p>
-      <ul>
-        <li>Built with Hono framework</li>
-        <li>Deployed globally on Cloudflare</li>
-        <li>JWT auth + Zod validation</li>
       </ul>
     </td>
   </tr>
@@ -115,7 +124,8 @@ const manish = {
 
 | 🏢 Company | 💼 Role | 📅 Period |
 |---|---|---|
-| **Journalyst** | Backend Developer | Sep – Dec 2025 |
+| **Freelance / Personal Projects** | Java Spring Boot Developer | Jan 2026 – Present |
+| **Journalyst** | Backend Developer (Spring Boot 3 + Node.js) | Sep – Dec 2025 |
 | **Delhi Skill & Entrepreneurship University** | Frontend Developer Intern | Jan 2025 |
 | **GfK – An NIQ Company** *(Global Data Giant)* | Scripting Associate | Feb – Jun 2024 |
 | **Think Straight** | Software Engineer | Jul – Sep 2023 |
@@ -137,11 +147,12 @@ const manish = {
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Building & Learning
 
-- ☕ **Spring Boot** — Spring Security, JPA, Microservices
-- 🐳 **Docker** — Containerizing Node.js & Spring Boot apps
-- 📐 **System Design** — Caching, Rate Limiting, Scalable APIs
+- ☕ **Spring Boot** — Building production REST APIs with Spring Security 6, JUnit 5, Mockito & Docker
+- 🧪 **Testing** — Writing JUnit 5 + Mockito unit & integration tests (MockMvc, @SpringBootTest)
+- ☁️ **Spring Cloud** — Exploring Eureka service discovery & Config Server (microservices basics)
+- 🐳 **Docker** — Containerizing Spring Boot & Node.js apps with Docker Compose
 
 ---
 
