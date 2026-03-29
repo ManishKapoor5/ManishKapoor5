@@ -16,8 +16,7 @@
 const manish = {
   role:       "Java Spring Boot Developer & Full Stack Engineer",
   location:   "Delhi, India 📍",
-  experience: "1+ year professional | 900+ hrs structured training",
-  background: "Former GfK–NIQ (Global Data Company) → Backend/Full-Stack Engineer",
+  training:   "900+ hrs structured MERN training",
   strengths:  ["Spring Boot REST APIs", "JWT/OAuth 2.0 + RBAC", "JUnit 5 + Mockito", "Docker", "Real-time Platforms"],
   available:  true, // Immediate Joiner ✅
 };
@@ -35,7 +34,7 @@ const manish = {
 
 **Backend & Runtime**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,typescript,python)](https://github.com/ManishKapoor5)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,typescript)](https://github.com/ManishKapoor5)
 
 **Frontend**
 
@@ -101,20 +100,7 @@ const manish = {
         <li>Complete Swagger/OpenAPI documentation</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3>💰 Expense Tracking API</h3>
-      <p>CRUD API with full OpenAPI/Swagger documentation</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white"/>
-      </p>
-      <ul>
-        <li>Filtering, cursor-based pagination & sorting</li>
-        <li>Normalized PostgreSQL schemas + Alembic migrations</li>
-        <li>Full Swagger UI documentation</li>
-      </ul>
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -124,11 +110,6 @@ const manish = {
 
 | 🏢 Company | 💼 Role | 📅 Period |
 |---|---|---|
-| **Freelance / Personal Projects** | Java Spring Boot Developer | Jan 2026 – Present |
-| **Journalyst** | Backend Developer (Spring Boot 3 + Node.js) | Sep – Dec 2025 |
-| **Delhi Skill & Entrepreneurship University** | Frontend Developer Intern | Jan 2025 |
-| **GfK – An NIQ Company** *(Global Data Giant)* | Scripting Associate | Feb – Jun 2024 |
-| **Think Straight** | Software Engineer | Jul – Sep 2023 |
 | **Infosys Springboard** | Software Engineering Intern | Jan – May 2023 |
 
 ---
