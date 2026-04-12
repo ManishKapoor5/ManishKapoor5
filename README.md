@@ -1,6 +1,6 @@
 # Hi, I'm Manish Kapoor 👋
 
-**Full Stack Developer** with domain experience in **Market Research Technology**
+**Junior Full Stack Developer** with domain experience in **Market Research Technology**
 
 Delhi, India · [LinkedIn](https://www.linkedin.com/in/manish-kapoor-j13/) · [Email](mailto:manishkapoorrr13@gmail.com) · Immediate Joiner
 
@@ -8,45 +8,38 @@ Delhi, India · [LinkedIn](https://www.linkedin.com/in/manish-kapoor-j13/) · [E
 
 ## About Me
 
-Full Stack Developer with hands-on production experience across React, Spring Boot, Node.js, and TypeScript. Unique background in survey programming at **GfK – An NIQ Company** (one of the world's largest MR firms) — giving me strong domain knowledge in data-driven workflows, complex conditional logic, and client-facing delivery under tight deadlines.
+Full Stack Developer with hands-on production experience across React, Node.js, Express.js, MongoDB, and TypeScript. Unique background in survey programming at **GfK – An NIQ Company** (one of the world's largest MR firms) — giving me strong domain knowledge in data-driven workflows, complex conditional logic, and client-facing delivery under tight deadlines. Currently expanding into Spring Boot.
 
 - 🏢 Worked at **GfK (NIQ)**, **Think Straight**, **Infosys Springboard**
 - 🎓 900+ hours structured MERN + DSA training — Pepcoding Institute
-- 🔁 Comfortable across the stack — REST APIs, auth, databases, frontend
+- 🔁 Comfortable across the MERN stack — REST APIs, auth, databases, frontend
 - 📍 Based in Delhi · Available immediately
 
 ---
 
 ## Tech Stack
 
-**Backend**
-`Spring Boot 3` `Spring Security 6` `Node.js` `Express.js` `JWT / OAuth2` `REST APIs` `WebSockets`
-
 **Frontend**
 `React.js` `Next.js 14` `TypeScript` `Tailwind CSS` `TanStack Query` `JavaScript ES6+`
+
+**Backend**
+`Node.js` `Express.js` `REST APIs` `WebSockets` `JWT / OAuth2` `Clerk`
 
 **Database**
 `MongoDB` `MySQL` `PostgreSQL` `Compound Indexing` `Aggregation Pipelines`
 
-**Testing & Docs**
-`JUnit 5` `Mockito` `MockMvc` `SpringDoc OpenAPI 3.0` `Swagger`
-
 **Tools**
-`Docker` `Git` `Maven` `Postman` `CI/CD`
+`Git` `Docker` `Postman` `Inngest` `Swagger / OpenAPI` `Agile`
+
+**Learning**
+`Spring Boot 3` `Spring Security 6` `JUnit 5` — actively building projects
 
 **Domain**
-`Survey Scripting (Decipher / Confirmit)` `Python automation` `CSV/XML data pipelines` `Market Research workflows`
+`Survey Scripting (Decipher / Confirmit)` `Python automation` `CSV/XML data pipelines` `Market Research`
 
 ---
 
 ## Featured Projects
-
-### 🗂 Task Management REST API
-`Spring Boot 3` `Spring Security 6` `JUnit 5` `MySQL` `Docker` `OpenAPI`
-
-Production-grade secured REST API with JWT + refresh-token rotation, fine-grained RBAC, ~80% test coverage via JUnit 5 + MockMvc, SpringDoc OpenAPI 3.0 documentation, and Docker containerization.
-
----
 
 ### 🎯 Interview Arena — Video Interview Platform
 `Next.js 14` `React` `Node.js` `Stream SDK` `TypeScript` `Clerk` `Inngest`
@@ -59,6 +52,13 @@ Real-time HD video interview platform with live chat, VSCode-style embedded code
 `Node.js` `Express.js` `MongoDB` `JWT` `3-Tier RBAC` `Swagger`
 
 RESTful API suite for order placement, portfolio, and position management — **40% faster MongoDB queries** via compound indexing, 3-tier RBAC with full data isolation, complete Swagger/OpenAPI docs.
+
+---
+
+### 🗂 Task Management REST API *(Personal Project — learning Spring Boot)*
+`Spring Boot 3` `Spring Security 6` `JUnit 5` `MySQL` `Docker` `OpenAPI`
+
+Built to learn the Spring Boot ecosystem — JWT + refresh-token rotation, RBAC, ~80% test coverage via JUnit 5 + MockMvc, SpringDoc OpenAPI 3.0 docs, Docker containerization.
 
 ---
 
