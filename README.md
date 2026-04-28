@@ -55,13 +55,6 @@ RESTful API suite for order placement, portfolio, and position management — **
 
 ---
 
-### 🗂 Task Management REST API *(Personal Project — learning Spring Boot)*
-`Spring Boot 3` `Spring Security 6` `JUnit 5` `MySQL` `Docker` `OpenAPI`
-
-Built to learn the Spring Boot ecosystem — JWT + refresh-token rotation, RBAC, ~80% test coverage via JUnit 5 + MockMvc, SpringDoc OpenAPI 3.0 docs, Docker containerization.
-
----
-
 ## GitHub Stats
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ManishKapoor5&theme=tokyonight&hide_border=true)
