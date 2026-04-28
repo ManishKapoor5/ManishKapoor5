@@ -31,9 +31,6 @@ Full Stack Developer with hands-on production experience across React, Node.js, 
 **Tools**
 `Git` `Docker` `Postman` `Inngest` `Swagger / OpenAPI` `Agile`
 
-**Learning**
-`Spring Boot 3` `Spring Security 6` `JUnit 5` — actively building projects
-
 **Domain**
 `Survey Scripting (Decipher / Confirmit)` `Python automation` `CSV/XML data pipelines` `Market Research`
 
