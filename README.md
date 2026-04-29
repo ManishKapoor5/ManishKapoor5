@@ -10,7 +10,7 @@ Delhi, India · [LinkedIn](https://www.linkedin.com/in/manish-kapoor-j13/) · [E
 
 Full Stack Developer with hands-on production experience across React, Node.js, Express.js, MongoDB, and TypeScript. Unique background in survey programming at **GfK – An NIQ Company** (one of the world's largest MR firms) — giving me strong domain knowledge in data-driven workflows, complex conditional logic, and client-facing delivery under tight deadlines. Currently building production projects with Spring Boot 3 and Spring Security.
 
-- 🏢 Worked at **GfK (NIQ)**, **Think Straight**, **Infosys Springboard** **DSEU** **Journalyst**
+- 🏢 Worked at **GfK (NIQ)**, **Think Straight**, **Infosys Springboard**, **DSEU**, **Journalyst**
 - 🎓 900+ hours structured MERN + DSA training — Pepcoding Institute
 - 🔁 Comfortable across the MERN stack — REST APIs, auth, databases, frontend
 - 📍 Based in Delhi · Available immediately
