@@ -1,6 +1,6 @@
 # Hi, I'm Manish Kapoor 👋
 
-**Junior Full Stack Developer** with domain experience in **Market Research Technology**
+**Full Stack Developer with Finance & Banking domain experience**
 
 Delhi, India · [LinkedIn](https://www.linkedin.com/in/manish-kapoor-j13/) · [Email](mailto:manishkapoorrr13@gmail.com) · Immediate Joiner
 
@@ -8,12 +8,13 @@ Delhi, India · [LinkedIn](https://www.linkedin.com/in/manish-kapoor-j13/) · [E
 
 ## About Me
 
-Full Stack Developer with hands-on production experience across React, Node.js, Express.js, MongoDB, and TypeScript. Unique background in survey programming at **GfK – An NIQ Company** (one of the world's largest MR firms) — giving me strong domain knowledge in data-driven workflows, complex conditional logic, and client-facing delivery under tight deadlines. Currently expanding into Spring Boot.
+Full Stack Developer with hands-on production experience across React, Node.js, Express.js, MongoDB, and TypeScript. Unique background in survey programming at **GfK – An NIQ Company** (one of the world's largest MR firms) — giving me strong domain knowledge in data-driven workflows, complex conditional logic, and client-facing delivery under tight deadlines. Currently building production projects with Spring Boot 3 and Spring Security.
 
 - 🏢 Worked at **GfK (NIQ)**, **Think Straight**, **Infosys Springboard**
 - 🎓 900+ hours structured MERN + DSA training — Pepcoding Institute
 - 🔁 Comfortable across the MERN stack — REST APIs, auth, databases, frontend
 - 📍 Based in Delhi · Available immediately
+- 🏦 Finance & back-office background — Wells Fargo, Sun Life Financial, Amazon US
 
 ---
 
@@ -23,7 +24,7 @@ Full Stack Developer with hands-on production experience across React, Node.js, 
 `React.js` `Next.js 14` `TypeScript` `Tailwind CSS` `TanStack Query` `JavaScript ES6+`
 
 **Backend**
-`Node.js` `Express.js` `REST APIs` `WebSockets` `JWT / OAuth2` `Clerk`
+`Spring Boot 3` `Spring Security 6` `Node.js`  `Express.js`  `REST APIs`  `WebSockets`  `JWT/OAuth2`  `Spring Security`  `Clerk`
 
 **Database**
 `MongoDB` `MySQL` `PostgreSQL` `Compound Indexing` `Aggregation Pipelines`
