@@ -24,7 +24,7 @@ Full Stack Developer with hands-on production experience across React, Node.js, 
 `React.js` `Next.js 14` `TypeScript` `Tailwind CSS` `TanStack Query` `JavaScript ES6+`
 
 **Backend**
-`Spring Boot 3` `Spring Security 6` `Node.js`  `Express.js`  `REST APIs`  `WebSockets`  `JWT/OAuth2`  `Spring Security`  `Clerk`
+`Spring Boot 3` `Spring Security 6` `Node.js`  `Express.js`  `REST APIs`  `WebSockets`  `JWT/OAuth2`  `Clerk`
 
 **Database**
 `MongoDB` `MySQL` `PostgreSQL` `Compound Indexing` `Aggregation Pipelines`
